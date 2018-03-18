@@ -1,2 +1,2 @@
-# notes
-loveniconico 的笔记
+# Notes
+我的笔记. My Notes
